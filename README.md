@@ -130,3 +130,17 @@ Key KPIs Visualized:
 	•	Row-level security
 	•	Power BI Service deployment
 	•	Automated refresh scheduling
+
+## ⚠️ Note on Source Code Availability
+
+Due to platform and security limitations, Databricks notebooks and Azure Data Factory pipelines 
+used in this project cannot be directly exported.
+
+However, this repository includes:
+- End-to-end architecture design
+- Power BI dashboards built on Gold layer tables
+- Complete explanation of data flow and transformations
+- Business KPIs and analytics outcomes
+
+This reflects real-world enterprise data engineering practices where infrastructure 
+and pipelines are managed within cloud platforms.
